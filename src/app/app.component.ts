@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
 @Component({
-  selector: 'app-root',
+  selector: 'app-root', //tag used to include this compnent in HTML
   standalone: true,
   imports: [RouterOutlet],
   templateUrl: './app.component.html',
