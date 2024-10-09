@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Bastawang_AP';
+  course = 'Bachelor of Science in Computer Science'
 }
